@@ -1,5 +1,5 @@
-def hello():
-    print("hello")
+def welcome():
+    print("New Screen")
 
 
-hello()
+welcome()
